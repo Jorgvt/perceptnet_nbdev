@@ -1,7 +1,7 @@
-repository: {Jorgvt}/{perceptnet}
+repository: Jorgvt/kernelidentity
 output: web
-topnav_title: {perceptnet}
-site_title: {perceptnet}
+topnav_title: kernelidentity
+site_title: kernelidentity
 company_name: Image Processing Laboratory - UV
 description: A neural network for perceptual metrics
 # Set to false to disable KaTeX math
